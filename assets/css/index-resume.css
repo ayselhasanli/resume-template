@@ -1,0 +1,15 @@
+.container main .container-fluid .resume-section {
+  max-width: 85%;
+  margin: 0 auto;
+}
+
+.container main .container-fluid .section-size {
+  height: 1300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=index-resume.css.map */

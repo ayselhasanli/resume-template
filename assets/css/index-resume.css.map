@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAGM,UAHI,CACR,IAAI,CACF,gBAAgB,CACd,eAAe,CAAC;EACd,SAAS,EAAE,GAAG;EACd,MAAM,EAAE,MAAM;CACf;;AANP,AAOM,UAPI,CACR,IAAI,CACF,gBAAgB,CAKd,aAAa,CAAC;EACZ,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;CACpB",
+    "sources": [
+        "index-resume.scss"
+    ],
+    "names": [],
+    "file": "index-resume.css"
+}

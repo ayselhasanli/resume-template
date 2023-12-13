@@ -1,0 +1,15 @@
+.container {
+  main {
+    .container-fluid {
+      .resume-section {
+        max-width: 85%;
+        margin: 0 auto;
+      }
+      .section-size {
+        height: 1300px;
+        display: flex;
+        align-items: center;
+      }
+    }
+  }
+}
